@@ -11,7 +11,6 @@ Kuhn (2015-2017).
 * [Assignment 1: Inspecting the PubMed Paper Dataset](01_inspecting.ipynb)
 * [Assignment 2: Building a simple search index](02_building.ipynb)
 * [Assignment 3: Improving the Search Index](03_improving.ipynb)
-* Assignment 4: TBD
+* [Assignment 4: Evaluating and Comparing Search Engines](04_evaluating.ipynb)
 * [Assignment 5: Link Analysis](05_analysis.ipynb)
 * Assignment 6: TBD
-
